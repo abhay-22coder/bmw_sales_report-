@@ -22,7 +22,6 @@ The project helped me practice data cleaning, data modeling, DAX calculations, a
 ## 🛠 Tools Used
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
-- **Data Modeling**
 - **Power Query**
 - **Excel/CSV Data Sources**
 
@@ -58,10 +57,6 @@ The project helped me practice data cleaning, data modeling, DAX calculations, a
 
 ---
 
-## 📷 Dashboard Preview
-(Add dashboard screenshots here)
-
----
 
 ## 🚀 Learning Outcomes
 Through this project, I learned:
