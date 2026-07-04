@@ -1,6 +1,3 @@
-# bmw_sales_report-
-this is my first analysis repository .
-
 # 🚗 BMW Global Sales Dashboard (2018–2025)
 ![preview image](/demo.png)
 
