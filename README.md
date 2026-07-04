@@ -2,6 +2,7 @@
 this is my first analysis repository .
 
 # 🚗 BMW Global Sales Dashboard (2018–2025)
+![preview image](/demo.png)
 
 ## 📌 Project Overview
 This is my first Power BI project, where I analyzed BMW global sales data from 2018 to 2025. The goal of this dashboard is to track sales performance, revenue trends, and business growth through interactive visualizations.
