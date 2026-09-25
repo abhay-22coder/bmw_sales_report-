@@ -1,5 +1,6 @@
 # 🚗 BMW Global Sales Dashboard (2018–2025)
-![preview image](/<img width="1083" height="610" alt="Screenshot 2026-09-25 at 11 22 56 AM" src="https://github.com/user-attachments/assets/8cb8d5f2-a4b1-4cde-a1a4-578767e2b597" />
+![preview image](/<img <img width="1075" height="601" alt="Screenshot 2026-09-25 at 11 32 50 AM" src="https://github.com/user-attachments/assets/b49c5bb4-fca1-4648-8d67-43a69dc2626f" />
+/>
 )
 
 ## Overview
